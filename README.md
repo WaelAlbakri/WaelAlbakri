@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Hello! My name is Wael (Some people call me Ahmed) and I work at a Science and Technology Museum based in San Antonio. I have an associate in Computer Science and I'm passionate about using technology to solve real-world problems.
+Hello! My name is Wael and I work at a Science and Technology Museum based in San Antonio. I have an associate in Computer Science and I'm passionate about using technology to solve real-world problems.
 
 I'm currently studying Computer Science at The University of Texas at San Antonio and expect to graduate in 2025. My interests include Cybersecurity, Linux, and Software Development.
 
