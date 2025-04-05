@@ -1,49 +1,60 @@
 # 💻 Wael Ahmed Albakri
 
-**Computer Science Senior | Crafting Solutions with Software and Data | Tech Innovator**
+**Computer Science Senior | Aspiring Data Analyst | Passionate About Tech, People, and Problem-Solving**
 
-I’m Wael Ahmed, a passionate Computer Science senior at UTSA with a robust foundation in software development, data analysis, and IT support. My journey includes creating impactful projects, leading tech workshops, and diving deep into cutting-edge technologies to solve complex problems.
+Hi, I'm Wael — a Computer Science senior at the University of Texas at San Antonio (UTSA) focused on data analysis, IT support, and hands-on tech solutions. I enjoy working with real-world data, building useful tools, and supporting others through technology.
+
+With experience in IT and interpreting data, as well as providing technical support in IT environments, I’m committed to creating solutions that are efficient, insightful, and user-centered. I’ve also earned multiple certifications from Google that reflect my dedication to continuous learning and practical skills.
 
 ---
 
-## 🚀 Skills
-- **Programming Languages**: Python, Java, JavaScript, Go, Bash, SQL, HTML & CSS
-- **Platforms**: Windows, macOS, Linux
-- **Key Expertise**: Data Security, Data Visualization, Troubleshooting, Technical Support, System Installation
-- **Languages**: Fluent in English and Arabic, basic proficiency in Turkish
+## 🚀 Technical Skills
+
+- **Programming**: Python, Java, JavaScript, Go, Bash, SQL, HTML & CSS
+- **Tools & Frameworks**: pandas, NumPy, Matplotlib, BeautifulSoup, Android Studio, Git
+- **Systems**: Windows, Linux (Ubuntu), macOS
+- **Core Competencies**: Data Analysis, SQL Queries, Debugging, IT Support, System Setup, Documentation
+- **Languages**: English (fluent), Arabic (fluent), Turkish (basic)
 
 ---
 
 ## 📂 Highlighted Projects
-- **Global Diabetes Analysis (Python)**  
-  Conducted comprehensive data analysis on global diabetes trends using pandas and matplotlib, identifying key insights by region and age group.
 
-- **Task Tracker (Android App)**  
-  Developed a task management app with features like task prioritization and seamless UI/UX using Java.
+### 📊 [Healthcare Management System (SQL)](https://github.com/WaelAlbakri/Healthcare-Management-System-SQL)
+Designed a fully normalized relational database to simulate healthcare operations. Built tables for patients, doctors, appointments, billing, and more. Developed analytical queries using SQL JOINs, GROUP BY, subqueries, and CASE statements. Visualized relationships with a Lucidchart ERD.
 
-- **Leon Web Template (HTML & CSS)**  
-  Created a sleek, responsive template for creative agencies, ensuring compatibility across devices.
+### 🌍 [Global Diabetes Data Analysis (Python & SQL)](https://github.com/WaelAlbakri/Global-Diabetes-Analysis)
+Analyzed worldwide diabetes prevalence using cleaned NCD-RisC datasets. Used pandas and Matplotlib for visual reporting and trend identification. Data cleaning and querying performed in Python and SQL.
 
-- **AWK Scripting for Data Analysis (Bash)**  
-  Automated service call data analysis to enhance decision-making capabilities.
+### ✅ [Task Tracker App (Java – Android)](https://github.com/WaelAlbakri/TaskTracker)
+Built an Android task manager using Java and Android Studio. Features include adding, tracking, and organizing personal tasks with a simple, functional UI.
 
-- **Website Scraper (Python)**  
-  Built a script to extract bookstore data (titles, ratings, prices) using BeautifulSoup and Requests.
+### 🧠 [Flappy Bird Game (Go + Raylib)](https://github.com/WaelAlbakri/FlappyBird-with-Go-and-Raylib)
+Recreated the Flappy Bird game using the Go programming language and the Raylib game engine. Included restart functionality, scoring system, and randomized obstacle heights.
 
----
+### 🎮 [Breakout Game (Go + Raylib)](https://github.com/WaelAlbakri/Breakout-Game)
+Developed a full Breakout-style arcade game using Go and Raylib, including paddle movement, bouncing physics, scoring, and reset logic.
 
-## 🎓 Certifications
-- Google IT Support Professional Certificate  
-- Google Cybersecurity Certificate  
-- Google Data Analytics Specialization  
-- Advanced Python: Working With Data  
+### 🌐 [HTML/CSS Personal Template](https://github.com/WaelAlbakri/HTML-CSS-Design)
+Created a modern, fully responsive web template using only HTML and CSS. Optimized for personal portfolios and compatible across devices.
 
 ---
 
-## 🌐 Connect With Me
-- **LinkedIn**: [WaelAlbakri](https://www.linkedin.com/in/waelalbakrii/)  
-- **GitHub**: [WaelAlbakri](https://github.com/WaelAlbakri)  
+## 📜 Certifications
+
+- ✅ Google IT Support Professional Certificate  
+- ✅ Google Cybersecurity Certificate  
+- ✅ Google Data Analytics Specialization  
+- ✅ Advanced Python: Working With Data
 
 ---
 
-Feel free to reach out or connect if you’d like to collaborate or discuss opportunities!
+## 📬 Let’s Connect!
+
+- **LinkedIn**: [WaelAlbakri](https://www.linkedin.com/in/waelalbakrii/)
+- **GitHub**: [WaelAlbakri](https://github.com/WaelAlbakri)
+- **Email**: waelalbakrii@gmail.com
+
+---
+
+### 🤝 Open to Opportunities
