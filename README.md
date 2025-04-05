@@ -35,7 +35,7 @@ Recreated the Flappy Bird game using the Go programming language and the Raylib 
 ### 🎮 [Breakout Game (Go + Raylib)](https://github.com/WaelAlbakri/Breakout-Game)
 Developed a full Breakout-style arcade game using Go and Raylib, including paddle movement, bouncing physics, scoring, and reset logic.
 
-### 🌐 [HTML/CSS Personal Template](https://github.com/WaelAlbakri/HTML-CSS-Design)
+### 🌐 [HTML/CSS Template](https://github.com/WaelAlbakri/HTML-CSS-Design)
 Created a modern, fully responsive web template using only HTML and CSS. Optimized for personal portfolios and compatible across devices.
 
 ---
