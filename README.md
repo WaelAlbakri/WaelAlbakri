@@ -1,4 +1,4 @@
-# 💻 Wael Ahmed Albakri
+# 💻 Wael Albakri
 
 **Computer Science Senior | Aspiring Data Analyst | Passionate About Tech, People, and Problem-Solving**
 
