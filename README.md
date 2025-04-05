@@ -4,7 +4,7 @@
 
 Hi, I'm Wael — a Computer Science senior at the University of Texas at San Antonio (UTSA) focused on data analysis, IT support, and hands-on tech solutions. I enjoy working with real-world data, building useful tools, and supporting others through technology.
 
-With experience in IT and interpreting data, as well as providing technical support in IT environments, I’m committed to creating solutions that are efficient, insightful, and user-centered. I’ve also earned multiple certifications from Google that reflect my dedication to continuous learning and practical skills.
+With experience in IT support and data interpretation, I’m committed to developing solutions that are efficient, insightful, and user-centered. I’ve also earned multiple certifications from Google that reflect my dedication to continuous learning and applying practical, real-world skills.
 
 ---
 
