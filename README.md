@@ -1,20 +1,24 @@
-# 💻 Wael Ahmed Albakri
+# 💻 Wael Albakri
 
-**Computer Science Senior | Aspiring Data Analyst | Passionate About Tech, People, and Problem-Solving**
+B.S. in Computer Science | IT & Data Specialist | Focused on Healthcare, Support, Education, and Analytics
 
-Hi, I'm Wael — a Computer Science senior at the University of Texas at San Antonio (UTSA) focused on data analysis, IT support, and hands-on tech solutions. I enjoy working with real-world data, building useful tools, and supporting others through technology.
+Hi, I’m Wael — a recent Computer Science graduate from the University of Texas at San Antonio with hands-on experience in IT support, healthcare data, and systems analysis. I’m passionate about using technology to improve efficiency, support teams, and drive better decision-making—especially in healthcare and service-focused environments.
 
-With experience in IT support and data interpretation, I’m committed to developing solutions that are efficient, insightful, and user-centered. I’ve also earned multiple certifications from Google that reflect my dedication to continuous learning and applying practical, real-world skills.
+I’ve supported systems and devices in tech environments, worked with large datasets to improve data quality, and built solutions using SQL, Python, and BI tools. With certifications in IT support, cybersecurity, Data Analytics, and healthcare data science, I’m committed to continuous learning and delivering real-world results.
 
 ---
 
 ## 🚀 Technical Skills
 
-- **Programming**: Python, Java, JavaScript, Go, Bash, SQL, HTML & CSS  
-- **Tools & Frameworks**: pandas, NumPy, Matplotlib, BeautifulSoup, Android Studio, Git  
-- **Systems**: Windows, Linux (Ubuntu), macOS  
-- **Core Competencies**: Data Analysis, SQL Queries, Debugging, IT Support, System Setup, Documentation  
-- **Languages**: English (fluent), Arabic (fluent), Turkish (basic)
+Programming: Python, Java, JavaScript, SQL, HTML & CSS, Go, Bash
+
+Tools & Frameworks: Power BI, Excel (PivotTables, VLOOKUP), Tableau, pandas, NumPy, Matplotlib, Git
+
+Systems: Windows, Linux (Ubuntu), macOS
+
+Core Competencies: IT Support, Healthcare Data, Data Cleaning, SQL Queries, System Setup, Troubleshooting, Documentation
+
+Languages: English (fluent), Arabic (fluent), Turkish (basic)
 
 ---
 
