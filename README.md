@@ -24,6 +24,9 @@ Languages: English (fluent), Arabic (fluent), Turkish (basic)
 
 ## 📂 Highlighted Projects
 
+### 🧠 [Disease Prediction Using Classification (Python & Power BI)](https://github.com/WaelAlbakri/disease-classification-project)  
+Built and compared machine learning models (KNN, Decision Tree, SVM, XGBoost) to predict disease outcomes using cancer gene expression and heart disease datasets. Applied PCA for dimensionality reduction and evaluated models with cross-validation, confusion matrices, and AUC scores. Created an interactive Power BI dashboard to visualize predictions and insights.
+
 ### 📊 [Healthcare Management System (SQL)](https://github.com/WaelAlbakri/Healthcare-Management-System-SQL)  
 Designed a fully normalized relational database to simulate healthcare operations. Built tables for patients, doctors, appointments, billing, and more. Developed analytical queries using SQL JOINs, GROUP BY, subqueries, and CASE statements. Visualized relationships with a Lucidchart ERD.
 
@@ -33,7 +36,7 @@ Analyzed worldwide diabetes prevalence using cleaned NCD-RisC datasets. Used pan
 ### ✅ [Task Tracker App (Java – Android)](https://github.com/WaelAlbakri/TaskTracker)  
 Built an Android task manager using Java and Android Studio. Features include adding, tracking, and organizing personal tasks with a simple, functional UI.
 
-### 🧠 [Flappy Bird Game (Go + Raylib)](https://github.com/WaelAlbakri/FlappyBird-with-Go-and-Raylib)  
+### 🎮 [Flappy Bird Game (Go + Raylib)](https://github.com/WaelAlbakri/FlappyBird-with-Go-and-Raylib)  
 Recreated the Flappy Bird game using the Go programming language and the Raylib game engine. Included restart functionality, scoring system, and randomized obstacle heights.
 
 ### 🎮 [Breakout Game (Go + Raylib)](https://github.com/WaelAlbakri/Breakout-Game)  
