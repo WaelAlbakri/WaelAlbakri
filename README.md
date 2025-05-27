@@ -1,10 +1,10 @@
 # 💻 Wael Albakri
 
-B.S. in Computer Science | IT & Data Specialist | Focused on Healthcare, Support, Education, and Analytics
+Hi, I’m Wael. I recently earned my degree in Computer Science from UTSA, and I’m passionate about using technology to solve real-world problems. I’ve gained hands-on experience in IT support, healthcare data, and systems analysis. I’m always looking for better ways to support teams and improve decision-making through smart, reliable tech.
 
-Hi, I’m Wael — a recent Computer Science graduate from the University of Texas at San Antonio with hands-on experience in IT support, healthcare data, and systems analysis. I’m passionate about using technology to improve efficiency, support teams, and drive better decision-making—especially in healthcare and service-focused environments.
+In past roles, I’ve supported users in live IT environments, cleaned and analyzed large datasets, and developed tools using SQL, Python, and Power BI. I’ve also earned certifications in IT Support, Cybersecurity, Data Analytics, and Healthcare Data Science. I enjoy learning new skills and applying them to practical challenges.
 
-I’ve supported systems and devices in tech environments, worked with large datasets to improve data quality, and built solutions using SQL, Python, and BI tools. With certifications in IT support, cybersecurity, Data Analytics, and healthcare data science, I’m committed to continuous learning and delivering real-world results.
+I’m open to opportunities where I can grow quickly, contribute to meaningful work, and help make technology more useful and accessible. I care about getting the details right and supporting the people who rely on tech every day.
 
 ---
 
