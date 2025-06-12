@@ -23,6 +23,8 @@ Languages: English (fluent), Arabic (fluent), Turkish (basic)
 ---
 
 ## 📂 Highlighted Projects
+### 📈 [Crime Rate Analysis in Texas (Python)](https://github.com/WaelAlbakri/Crime_Rate_Analysis)  
+Performed a full analysis of crime data in Texas from 1979 to 2019. Cleaned the dataset, calculated total and per capita crime rates, and visualized crime trends using Matplotlib and Seaborn. Identified the most and least dangerous years and the most frequent crime types in the state.
 
 ### 🧠 [Disease Prediction Using Classification (Python & Power BI)](https://github.com/WaelAlbakri/disease-classification-project)  
 Built and compared machine learning models (KNN, Decision Tree, SVM, XGBoost) to predict disease outcomes using cancer gene expression and heart disease datasets. Applied PCA for dimensionality reduction and evaluated models with cross-validation, confusion matrices, and AUC scores. Created an interactive Power BI dashboard to visualize predictions and insights.
