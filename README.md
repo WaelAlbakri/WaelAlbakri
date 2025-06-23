@@ -23,6 +23,10 @@ Languages: English (fluent), Arabic (fluent), Turkish (basic)
 ---
 
 ## 📂 Highlighted Projects
+
+### 🧠 [Sentiment Analysis for Mental Health Statements (Excel, Python, SQL, Power BI)](https://github.com/WaelAlbakri/Sentiment-Analysis-for-Mental-Health-Statements)  
+Analyzed over 52K social media statements using TextBlob to detect sentiment polarity (positive, negative, neutral). Cleaned and structured data with Excel and Python, stored in MySQL, and built a Power BI dashboard to visualize emotional trends across mental health statuses like depression and anxiety.
+
 ### 📈 [Crime Rate Analysis in Texas (Python)](https://github.com/WaelAlbakri/Crime_Rate_Analysis)  
 Performed a full analysis of crime data in Texas from 1979 to 2019. Cleaned the dataset, calculated total and per capita crime rates, and visualized crime trends using Matplotlib and Seaborn. Identified the most and least dangerous years and the most frequent crime types in the state.
 
