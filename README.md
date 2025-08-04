@@ -7,9 +7,13 @@ I'm a Computer Science graduate from UTSA, currently pursuing my M.S. in Artific
 ## 🚀 Technical Skills
 
 Programming: Python, Java, JavaScript, SQL, HTML/CSS, GO
+
 Tools & Frameworks: Power BI, Excel (VLOOKUP, PivotTables), MySQL, Jupyter Notebooks, Tableau, Git, AWS, Android Studio
+
 Systems: Windows, Linux (Ubuntu), macOS
+
 Areas of Strength: IT Support, Data Cleaning, SQL Queries, System Troubleshooting, Technical Documentation
+
 Languages: English (fluent), Arabic (fluent), Turkish (basic)
 
 
