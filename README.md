@@ -1,24 +1,17 @@
 # 💻 Wael Albakri
 
-Hi, I’m Wael. I recently earned my degree in Computer Science from UTSA, and I’m passionate about using technology to solve real-world problems. I’ve gained hands-on experience in IT support, healthcare data, and systems analysis. I’m always looking for better ways to support teams and improve decision-making through smart, reliable tech.
-
-In past roles, I’ve supported users in live IT environments, cleaned and analyzed large datasets, and developed tools using SQL, Python, and Power BI. I’ve also earned certifications in IT Support, Cybersecurity, Data Analytics, and Healthcare Data Science. I enjoy learning new skills and applying them to practical challenges.
-
-I’m open to opportunities where I can grow quickly, contribute to meaningful work, and help make technology more useful and accessible. I care about getting the details right and supporting the people who rely on tech every day.
+I'm a Computer Science graduate from UTSA, currently pursuing my M.S. in Artificial Intelligence. I have hands-on experience in data analysis, IT support, and technical operations through roles at SAMSAT, Target, and My City Is My Home. I’ve worked with Excel, Python, SQL, and Power BI to clean and analyze data, build dashboards, and support decision-making. I’ve also contributed to projects involving customer behavior prediction, sentiment analysis, and task management app development. I'm eager to continue learning and apply my skills to real-world problems in data, AI, and tech-driven environments.
 
 ---
 
 ## 🚀 Technical Skills
 
-Programming: Python, Java, JavaScript, SQL, HTML & CSS, Go, Bash
-
-Tools & Frameworks: Power BI, Excel (PivotTables, VLOOKUP), Tableau, pandas, NumPy, Matplotlib, Git
-
+Programming: Python, Java, JavaScript, SQL, HTML/CSS, GO
+Tools & Frameworks: Power BI, Excel (VLOOKUP, PivotTables), MySQL, Jupyter Notebooks, Tableau, Git, AWS, Android Studio
 Systems: Windows, Linux (Ubuntu), macOS
-
-Core Competencies: IT Support, Healthcare Data, Data Cleaning, SQL Queries, System Setup, Troubleshooting, Documentation
-
+Areas of Strength: IT Support, Data Cleaning, SQL Queries, System Troubleshooting, Technical Documentation
 Languages: English (fluent), Arabic (fluent), Turkish (basic)
+
 
 ---
 
