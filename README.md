@@ -1,6 +1,6 @@
 # 💻 Wael Albakri
 
-I'm a Computer Science graduate from UTSA, currently pursuing my M.S. in Artificial Intelligence. I have hands-on experience in data analysis, IT support, and technical operations through roles at SAMSAT, Target, and My City Is My Home. I’ve worked with Excel, Python, SQL, and Power BI to clean and analyze data, build dashboards, and support decision-making. I’ve also contributed to projects involving customer behavior prediction, sentiment analysis, and task management app development. I'm eager to continue learning and apply my skills to real-world problems in data, AI, and tech-driven environments.
+I'm a Computer Science graduate from UTSA, currently pursuing my M.S. in Artificial Intelligence, Analytics. I have hands-on experience in data analysis, IT support, and technical operations through roles at SAMSAT, Target, and My City Is My Home. I’ve worked with Excel, Python, SQL, and Power BI to clean and analyze data, build dashboards, and support decision-making. I’ve also contributed to projects involving customer behavior prediction, sentiment analysis, and task management app development. I'm eager to continue learning and apply my skills to real-world problems in data, AI, and tech-driven environments.
 
 ---
 
