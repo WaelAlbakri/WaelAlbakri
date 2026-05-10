@@ -1,20 +1,16 @@
-# 💻 Wael Albakri
+# Wael Albakri
 
-I'm a Computer Science graduate from UTSA, currently pursuing my M.S. in Artificial Intelligence, Analytics. I have hands-on experience in data analysis, IT support, and technical operations through roles at SAMSAT, Target, and My City Is My Home. I’ve worked with Excel, Python, SQL, and Power BI to clean and analyze data, build dashboards, and support decision-making. I’ve also contributed to projects involving customer behavior prediction, sentiment analysis, and task management app development. I'm eager to continue learning and apply my skills to real-world problems in data, AI, and tech-driven environments.
+Computer Science graduate from UTSA (3.8 GPA, Dean's List), currently pursuing an M.S. in Artificial Intelligence & Analytics. I work as a Data Support Specialist at Bexar County, where I build compliance dashboards, reconcile enterprise datasets, and deliver reporting that informs leadership decisions. My project work spans healthcare AI, payment trend analysis, and customer behavior prediction. I'm focused on roles in data analytics, AI, and information systems.
 
 ---
 
-## 🚀 Technical Skills
+## Technical Skills
 
-Programming: Python, Java, JavaScript, SQL, HTML/CSS, GO
-
-Tools & Frameworks: Power BI, Excel (VLOOKUP, PivotTables), MySQL, Jupyter Notebooks, Tableau, Git, AWS, Android Studio
-
-Systems: Windows, Linux (Ubuntu), macOS
-
-Areas of Strength: IT Support, Data Cleaning, SQL Queries, System Troubleshooting, Technical Documentation
-
-Languages: English (fluent), Arabic (fluent), Turkish (basic)
+**Programming:** Python, Java, JavaScript, SQL, HTML/CSS  
+**Tools:** Power BI, Tableau, Excel, MySQL, Jupyter Notebooks, Git, AWS, Android Studio  
+**Systems:** Windows, Linux (Ubuntu), macOS  
+**Strengths:** Data cleaning, dashboard development, compliance reporting, SQL queries, technical documentation  
+**Languages:** English (fluent), Arabic (fluent), Turkish (basic)
 
 
 ---
