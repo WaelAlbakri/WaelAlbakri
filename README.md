@@ -1,6 +1,6 @@
 # Wael Albakri
 
-Computer Science graduate from UTSA (3.8 GPA, Dean's List), currently pursuing an M.S. in Artificial Intelligence & Analytics. I work as a Data Support Specialist at Bexar County, where I build compliance dashboards, reconcile enterprise datasets, and deliver reporting that informs leadership decisions. My project work spans healthcare AI, payment trend analysis, and customer behavior prediction. I'm focused on roles in data analytics, AI, and information systems.
+Computer Science graduate from UTSA (3.8 GPA, Dean's List), currently pursuing an M.S. in Artificial Intelligence & Analytics. I work as a Data Support Specialist at Bexar County, where I build dashboards, reconcile datasets, and deliver reporting that informs leadership decisions. My project work spans healthcare AI, payment trend analysis, and customer behavior prediction. Always learning, always building.
 
 ---
 
