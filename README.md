@@ -16,6 +16,9 @@ Computer Science graduate from UTSA (3.8 GPA, Dean's List), currently pursuing a
 
 ## 📂 Highlighted Projects
 
+### Predict Soccer Match Winners with Machine Learning (Premier League)
+As a passionate soccer fan, especially of the Premier League, I wanted to combine my love for the sport with my interest in ML and data science. This project explores how machine learning can be applied to predict match winners by leveraging historical match data, rolling performance metrics, and a time-aware modeling approach.
+
 ### 🧠 [Sentiment Analysis for Mental Health Statements (Excel, Python, SQL, Power BI)](https://github.com/WaelAlbakri/Sentiment-Analysis-for-Mental-Health-Statements)  
 Analyzed over 52K social media statements using TextBlob to detect sentiment polarity (positive, negative, neutral). Cleaned and structured data with Excel and Python, stored in MySQL, and built a Power BI dashboard to visualize emotional trends across mental health statuses like depression and anxiety.
 
