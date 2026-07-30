@@ -10,7 +10,6 @@ Computer Science graduate from UTSA (3.8 GPA, Dean's List), currently pursuing a
 **Tools:** Power BI, Tableau, Excel, MySQL, Jupyter Notebooks, Git, AWS, Android Studio  
 **Systems:** Windows, Linux (Ubuntu), macOS  
 **Strengths:** Data cleaning, dashboard development, compliance reporting, SQL queries, technical documentation  
-**Languages:** English (fluent), Arabic (fluent), Turkish (basic)
 
 
 ---
@@ -46,14 +45,6 @@ Created a modern, fully responsive web template using only HTML and CSS. Optimiz
 
 ---
 
-## 📜 Certifications
-
-- ✅ Google IT Support Professional Certificate  
-- ✅ Google Cybersecurity Certificate  
-- ✅ Google Data Analytics Specialization  
-- ✅ Advanced Python: Working With Data
-
----
 
 ## 📬 Let’s Connect!
 
