@@ -60,4 +60,4 @@ Analyzed Texas crime data from 1979 to 2019: cleaned the dataset, calculated tot
 - **GitHub:** [WaelAlbakri](https://github.com/WaelAlbakri)
 - **Email:** [waelalbakrii@gmail.com](mailto:waelalbakrii@gmail.com)
 
-🤝 **Open to opportunities in Data Analysis, AI/ML, and Analytics.**
+🤝 **Open to opportunities**
